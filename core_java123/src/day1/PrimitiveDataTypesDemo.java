@@ -1,4 +1,4 @@
-package core_java123;
+package day1;
 
 public class PrimitiveDataTypesDemo {
 
