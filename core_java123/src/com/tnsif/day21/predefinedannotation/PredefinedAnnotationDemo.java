@@ -1,5 +1,5 @@
 //Program to demonstrate predefined annotation
-package com.tnsif.daytwen21.predefinedannotation;
+package com.tnsif.day21.predefinedannotation;
 
 import java.util.ArrayList;
 import java.util.List;
